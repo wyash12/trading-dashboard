@@ -3,11 +3,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A full-stack MERN application for tracking high-impact economic events and their market implications.
+
+This application scrapes data from the website forexFoundry and provides a web based tabular dashboard.
+it also uses a FinBert model to provide market based sentiment analysis on the gatherd data
+
+
 ![Screenshot from 2025-05-14 00-48-14](https://github.com/user-attachments/assets/f5b502dc-b5e0-48dc-b672-dde31ca2c1bd)
 ![Screenshot from 2025-05-14 00-48-28](https://github.com/user-attachments/assets/902f7f6a-8d7d-4184-8022-e3f6c35ab2c9)
 
-![Screenshot from 2025-05-14 00-48-38](https://github.com/user-attachments/assets/a652b4c0-97df-4628-8d3c-d2f7aee4a053![Screenshot from 2025-05-14 00-48-55](https://github.com/user-attachments/assets/29737aa6-6fcb-47b8-aa18-49f3992ffa58)
-)
+![Screenshot from 2025-05-14 00-48-38](https://github.com/user-attachments/assets/a652b4c0-97df-4628-8d3c-d2f7aee4a053!)
+![Screenshot from 2025-05-14 00-48-55](https://github.com/user-attachments/assets/29737aa6-6fcb-47b8-aa18-49f3992ffa58)
 
 
 
