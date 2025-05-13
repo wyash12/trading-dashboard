@@ -3,16 +3,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A full-stack MERN application for tracking high-impact economic events and their market implications.
+![image](https://github.com/user-attachments/assets/59bf6e6f-2e63-4962-a56f-0335d55a6a70)
 
-![Dashboard Preview](https://via.placeholder.com/800x400.png?text=Dashboard+Preview) *Add actual screenshot later*
 
 ## Features
 
 - 📅 View economic calendar events for current week
-- 🔍 Filter events by country, impact level, and date range
-- 🔎 Search events by name/keyword
+- 🔍 Filter events by country, impact level
 - 📊 Real-time market sentiment analysis (Bullish 🟢/Bearish 🔴)
-- 📱 Responsive table layout with sorting capabilities
+- 📱 Responsive table layout 
 - 📈 Historical data comparison (Actual vs Forecast vs Previous)
 - ⚡ MongoDB-powered backend with REST API
 
