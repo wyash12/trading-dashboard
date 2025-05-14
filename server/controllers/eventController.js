@@ -33,7 +33,7 @@ exports.getEvents = async (req, res) => {
       impactBadge: getImpactBadge(event.impact)
     }));
 
-    res.json(enhancedEvents);
+    res.status(200).json({ message: 'Events filtered successfully', events: enhanceEvents(events) });
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
@@ -70,7 +70,7 @@ exports.filterEvents = async (req, res) => {
       .sort({ date: 1, time: 1 })
       .lean();
 
-    res.json(enhanceEvents(events));
+    res.status(200).json({ message: 'Events filtered successfully', events: enhanceEvents(events) });
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
