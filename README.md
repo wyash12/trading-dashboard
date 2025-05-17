@@ -7,11 +7,22 @@ A full-stack MERN application for tracking high-impact economic events and their
 This application scrapes data from the website forexFoundry and provides a web based tabular dashboard.
 it also uses a FinBert model to provide market based sentiment analysis on the gatherd data
 
+Architecture for this Project:
+
+
+![architecture-Diagram](https://github.com/user-attachments/assets/02fc16ea-b7fe-4018-ba32-4b8b1cba23d9)
+
+
+
+
+Screenshots for the Project
 
 ![Screenshot from 2025-05-14 00-48-14](https://github.com/user-attachments/assets/f5b502dc-b5e0-48dc-b672-dde31ca2c1bd)
+
 ![Screenshot from 2025-05-14 00-48-28](https://github.com/user-attachments/assets/902f7f6a-8d7d-4184-8022-e3f6c35ab2c9)
 
 ![Screenshot from 2025-05-14 00-48-38](https://github.com/user-attachments/assets/a652b4c0-97df-4628-8d3c-d2f7aee4a053!)
+
 ![Screenshot from 2025-05-14 00-48-55](https://github.com/user-attachments/assets/29737aa6-6fcb-47b8-aa18-49f3992ffa58)
 
 
